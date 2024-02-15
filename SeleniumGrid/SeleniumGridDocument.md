@@ -1,7 +1,7 @@
 ## Selenium Grid 자료 
 
-Selenium Grid : Selenium의 분산 테스트를 지원하는 시스템이고, 대규모 테스트를 병렬로 실행하거나,
-크로스 브라우징 테스트가 가능함.
+Selenium Grid : Selenium의 분산 테스트를 지원하는 시스템
+-  대규모 테스트를 병렬로 실행하거나,크로스 브라우징 테스트가 가능함.
 
 ### 튜토리얼(영어)
 - [Selenium Grid 공식 문서](https://www.selenium.dev/documentation/grid/)
