@@ -12,8 +12,14 @@ Selenium Grid : Selenium의 분산 테스트를 지원하는 시스템
 
 ### 책
 - [~Selenium을 활용한 테스트 자동화 2/e~](https://www.yes24.com/Product/Goods/105103640)
+- [pack출판사 selenium 책들](https://www.packtpub.com/search?query=selenium)
+
+### 예제
+- [Selenium-WebDriver-3-Practical-Guide : github](https://github.com/PacktPublishing/Selenium-WebDriver-3-Practical-Guide-Second-Edition)
  
 ### 참조
 - [한글로 된 Selenium Grid 참조 사이트](https://www.whatap.io/ko/blog/39/)
 - [Selenium Grid & Docker 활용](https://tech.nexr.kr/c9b446df-38ca-4004-bf93-2c37183ff993)
 - [Docker-컨테이너-Selenium-Grid-환경-셋팅](https://velog.io/@tkjung/Docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-Selenium-Grid-%ED%99%98%EA%B2%BD-%EC%85%8B%ED%8C%85)
+
+
