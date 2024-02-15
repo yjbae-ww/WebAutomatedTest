@@ -11,7 +11,7 @@ Selenium Grid : Selenium의 분산 테스트를 지원하는 시스템
 - [Selenium Python: Beginners to Advanced](https://www.udemy.com/course/selenium-python-beginners-to-advanced/)
 
 ### 책
-- [Selenium을 활용한 테스트 자동화 2/e](https://www.yes24.com/Product/Goods/105103640)
+- [~Selenium을 활용한 테스트 자동화 2/e~](https://www.yes24.com/Product/Goods/105103640)
  
 ### 참조
 - [한글로 된 Selenium Grid 참조 사이트](https://www.whatap.io/ko/blog/39/)
