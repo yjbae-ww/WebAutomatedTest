@@ -13,7 +13,7 @@
         - Web scraping : 특정 웹 페이지에서 데이터를 뽑아내는 것
         - Web crawling : 웹 페이지를 찾아다니며 정보를 수집하는 것 
 
-    2.[Selenium 기본 과정](https://www.inflearn.com/course/selenium-%EA%B8%B0%EB%B3%B8-%EA%B3%BC%EC%A0%95/dashboard) /초급&실습 비추천
+    2.[Selenium 기본 과정](https://www.inflearn.com/course/selenium-%EA%B8%B0%EB%B3%B8-%EA%B3%BC%EC%A0%95/dashboard) /초급&이론만 추천
     - 장점: Selenium 기초 강의가 설명이 쉬움
     - 단점: 변수를 한글로 써서 강의함
     - 예제: 네이버 View 탭 순위 측정,쇼핑 순위 측정,플레이스&지도 순위 측정
