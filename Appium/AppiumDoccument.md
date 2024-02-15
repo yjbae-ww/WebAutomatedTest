@@ -1,10 +1,9 @@
 ## Appium 자료
 
 ### 강의
-- [TTA 아카데미](https://edu.tta.or.kr/edu/contents.do?key=51)
+- [TTA 아카데미(유료)](https://edu.tta.or.kr/edu/contents.do?key=51)
 
 ### 책
-- [파이썬과 40개의 작품들](https://search.shopping.naver.com/book/catalog/32472041705)
 - [풀스택 테스트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2618676913)
 
 ### 가이드
