@@ -5,18 +5,44 @@
     > 추천 강의 목차
     > 
     > 1.[이것이 진짜 크롤링이다](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88/dashboard)
-    > - 섹션2.준비 운동 (23분) - 4개 강의 (HTML&CSS)
+    > - 섹션2.준비 운동 (23분) - 4개 강의 (HTML&CSS) 
+    >     - [파이썬 크롤링 기초](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92368)
+    >     - [HTML을 파이썬으로 가져오자](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92369)
+    >     - [내가 원하는 태그를 선택하자 : beautifulsoup](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92370)
+    >     - [크롤링에서 가장 중요한 CSS 선택자](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92552)
     > - 섹션3.뉴스데이터 수집하기 (24분) - 4개 강의 (데이터 가져오고,검색어 처리)
-    >   
+    >     - [헤드라인 뉴스 가져오는 방법?](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92371)
+    >     - [뉴스의 제목과 링크를 가지고 오자](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92372)
+    >     - [검색어에 따라 다른 결과를 나타내기 : pyautogui](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92373)
+    >     - [여러 페이지 결과 모두 가져오기 : 반복문](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92374)
     >     -> HTML/CSSS & 웹페이지에서 데이터 수집 기초
-    > 
+    >
     > 2.[사무직 칼퇴 필수 기술 : 파이썬 업무 자동화 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8#curriculum)
     > - 섹션2.웹사이트 자동화 (네이버 로그인 자동화하기,네이버 메일 자동화하기) - 30분 /실습
-    >   
+    >     - [셀레니움 기초 사용법 - 네이버 로그인 자동화하기](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8&unitId=140263)
+    >     - [셀레니움 활용 - 네이버 메일 자동화하기](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8&unitId=140264)
+    >       
     > 3.[파이썬 무료 강의 (활용편4) - 업무자동화 (RPA)](https://www.inflearn.com/course/%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC/dashboard)
     > - 섹션2.데스크탑 UI 자동화 : 마우스 이동,마우스 액션, 마우스 정보 ,스크린, 윈도우 다루기,키보드,메시지 박스
+    >     - [마우스 이동](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70795)
+    >     - [마우스 액션](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70796)
+    >     - [마우스 정보](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70797)
+    >     - [스크린](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70798)
+    >     - [윈도우 다루기](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70802)
+    >     - [키보드](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70803)
+    >     - [메시지 박스](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70804)
     > - 섹션3.웹 자동화 : 전체 /실습
-    >   
+    >     - [Iframe](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70817)
+    >     - [Radio](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70818)
+    >     - [CheckBox](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70819)
+    >     - [Select & Option](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70820)
+    >     - [동적 페이지 스크롤 1](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70821)
+    >     - [동적 페이지 스크롤 2](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70822)
+    >     - [특정 영역 스크롤](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70823)
+    >     - [파일 다운로드](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70824)
+    >     - [페이지 로딩 대기 1](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70825)
+    >     - [페이지 로딩 대기 2](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70826)
+    >     - [Handle](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70827)
     >     -> 클릭,선택,동적 페이지 기능, 페이지 로딩 실습
 
     1.[이것이 진짜 크롤링이다](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88/dashboard) /초급
