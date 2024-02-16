@@ -29,6 +29,10 @@
     - 단점: 자동화 업무 처리 활용
     - 예제: iframe, Radio, CheckBox, Select & Option, 동적 페이지 스크롤, 특정 영역 스크롤, 파일 다운로드, 페이지 로딩 대기, Handle
     - 사전지식: Python, Web지식, Web scraping 경험
+  5.[코딩 입문자 파이썬 기초]([https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91/dashboard](https://www.inflearn.com/course/%EC%BD%94%EB%94%A9-%EC%9E%85%EB%AC%B8%EC%9E%90-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88)) /입문
+    - 장점: 입문자용
+  6.[사무직 칼퇴 필수 기술 : 파이썬 업무 자동화](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8) /기초
+    - 장점: 엑셀 자동화 기초 수준, 네이버 메일 자동화 
 
 ### 문서
 - [Python 공식 문서](https://docs.python.org/ko/3.13/howto/argparse.html)
