@@ -1,9 +1,21 @@
 ## Python&Selenium 자료
 
 ### 강의
-- 인프런 
-
-    > 추천 : 2.Selenium 기본 과정 (이론만 듣기), 3.파이썬 웹 스크래핑에서 실습
+- 인프런
+    > 추천 강의 목차
+    > 
+    > 1.[이것이 진짜 크롤링이다](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88/dashboard)
+    > - 섹션2.준비 운동 (23분) - 4개 강의 (HTML&CSS)
+    > - 섹션3.뉴스데이터 수집하기 (24분) - 4개 강의 (데이터 가져오고,검색어 처리)
+    > ->HTML/CSSS & 웹페이지에서 데이터 수집 기초
+    > 
+    > 2.[사무직 칼퇴 필수 기술 : 파이썬 업무 자동화 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8#curriculum)
+    > - 섹션2.웹사이트 자동화 (네이버 로그인 자동화하기,네이버 메일 자동화하기) - 30분 /실습
+    >   
+    > 3.[파이썬 무료 강의 (활용편4) - 업무자동화 (RPA)](https://www.inflearn.com/course/%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC/dashboard)
+    > - 섹션2.데스크탑 UI 자동화 : 마우스 이동,마우스 액션, 마우스 정보 ,스크린, 윈도우 다루기,키보드,메시지 박스
+    > - 섹션3.웹 자동화 : 전체 /실습
+    > -> 클릭,선택,동적 페이지 기능, 페이지 로딩 실습
 
     1.[이것이 진짜 크롤링이다](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88/dashboard) /초급
     - 장점: html 기초 설명 있고, 기초 설명이 쉬움
