@@ -51,5 +51,8 @@ My Keyword
     Directory Should Exist    ${path}
 ```
 
+### 실행 방법
+> robot 파일이름.robot
+
 ### 참조 
 https://velog.io/@starmom/Robot-Frameworks-1-1-Setup
