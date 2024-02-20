@@ -89,6 +89,7 @@ https://www.oracle.com/java/technologies/downloads/
     > 1.cmd 창 입력
     >
     > adb shell dumpsys window | find "mCurrentFocus"
+    
     > 2.결과 
     >
     > mCurrentFocus=Window{xxxxx u0 AppPackage/AppActivity}
