@@ -1,35 +1,35 @@
 ## Appium 설치 가이드
-### 1. JDK 설치 
+1. JDK 설치 
 https://www.oracle.com/java/technologies/downloads/
 
-### 2. 환경 변수 설정
+2. 환경 변수 설정
     > 시스템 > 고급 시스템 설정 > 환경 변수 > 새로 만들기
     *사용자 변수 편집
 
     > JAVA_HOME
     >
     > C:\Program Files\Java\jdk-21
-    ![alt text](image.png)
+    ![alt text](./image.png)
 
     *자바 설치 체크
 
         > cmd > java -version
 
-### 3. Android Studio 설치
+3. Android Studio 설치
     - [Android Studio Download](https://developer.android.com/studio?hl=ko)
 
     - SDK Manager 경로 참조
         > Tools > SDK Manager
-        ![alt text](image-5.png)
+        ![alt text](./image-5.png)
 
     - Android SDK Platform-tools 설치 확인 (없으면 설치)
-    - ![alt text](image-4.png)
+    - ![alt text](./image-4.png)
 
     - ANDROID_HOME 경로 설정 & JAVA_HOME 경로 설정
-    ![alt text](image-2.png)
+    ![alt text](./image-2.png)
 
     - ANDROID_HOME : 안드로이드 SDK 경로
-    ![alt text](image-3.png)
+    ![alt text](./image-3.png)
 
     - 필요한 Andorid os 별 api 설치
 
@@ -37,21 +37,21 @@ https://www.oracle.com/java/technologies/downloads/
         > cmd창에서
         >
         > adb --version
-### 4. Appium 설치
+4. Appium 설치
     - [Appium Server GUI 설치](https://github.com/appium/appium-desktop/releases)
 
     - [Appium inspector 설치](https://github.com/appium/appium-inspector/releases)
 
     - Appium Server GUI 실행 > Edit Configurations 선택 > 설정
-    ![alt text](image-1.png)
+    ![alt text](./image-1.png)
 
-### 5. Python Client 설치
+5. Python Client 설치
     > pip install Appium-Python-Client
-### 6. 사용할 단말기 usb 연결
+6. 사용할 단말기 usb 연결
     > cmd창에
     >
     > adb devices
-### 7. Appium에서 단말 실행법
+7. Appium에서 단말 실행법
     1. Appium Server GUI 실행 > startServer 클릭
     2. Appium Inspector 실행 > JSON Repersentaiton에 입력    
 
@@ -59,9 +59,9 @@ https://www.oracle.com/java/technologies/downloads/
 
         > /wd/hub
         *appium:udid 추가 (필수)
-        ![alt text](image-6.png)
-        ![alt text](image-7.png)
-### 8. Appium에서 Emulator 실행법
+        ![alt text](./image-6.png)
+        ![alt text](./image-7.png)
+8. Appium에서 Emulator 실행법
     1. AndrodiStudio에서 Emulator 설치
     2. Appium Server GUI 실행 > startServer 클릭
     3. AndrodiStudio에서 Emulator 실행
