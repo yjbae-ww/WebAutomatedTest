@@ -13,7 +13,7 @@ https://www.oracle.com/java/technologies/downloads/
     >
     > C:\Program Files\Java\jdk-21
 
-    ![alt text](./Recources/image.png)
+    ![alt text](image.png)
 
     *자바 설치 체크
 
