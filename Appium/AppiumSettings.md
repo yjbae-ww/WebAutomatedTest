@@ -4,12 +4,14 @@ https://www.oracle.com/java/technologies/downloads/
 
 2. 환경 변수 설정
     > 시스템 > 고급 시스템 설정 > 환경 변수 > 새로 만들기
+    
     *사용자 변수 편집
 
     > JAVA_HOME
     >
     > C:\Program Files\Java\jdk-21
-    ![alt text](./image.png)
+    
+    ![사용자 변수 편집](./Resoucre/image.png)
 
     *자바 설치 체크
 
@@ -20,16 +22,16 @@ https://www.oracle.com/java/technologies/downloads/
 
     - SDK Manager 경로 참조
         > Tools > SDK Manager
-        ![alt text](./image-5.png)
+        ![alt text](./Resoucre/image-5.png)
 
     - Android SDK Platform-tools 설치 확인 (없으면 설치)
-    - ![alt text](./image-4.png)
+    - ![alt text](./Resoucre/image-4.png)
 
     - ANDROID_HOME 경로 설정 & JAVA_HOME 경로 설정
-    ![alt text](./image-2.png)
+    - ![alt text](./Resoucre/image-2.png)
 
     - ANDROID_HOME : 안드로이드 SDK 경로
-    ![alt text](./image-3.png)
+    ![alt text](./Resoucre/image-3.png)
 
     - 필요한 Andorid os 별 api 설치
 
@@ -43,7 +45,7 @@ https://www.oracle.com/java/technologies/downloads/
     - [Appium inspector 설치](https://github.com/appium/appium-inspector/releases)
 
     - Appium Server GUI 실행 > Edit Configurations 선택 > 설정
-    ![alt text](./image-1.png)
+    - ![alt text](./Resoucre/image-1.png)
 
 5. Python Client 설치
     > pip install Appium-Python-Client
@@ -59,8 +61,8 @@ https://www.oracle.com/java/technologies/downloads/
 
         > /wd/hub
         *appium:udid 추가 (필수)
-        ![alt text](./image-6.png)
-        ![alt text](./image-7.png)
+        ![alt text](./Resoucre/image-6.png)
+        ![alt text](./Resoucre/image-7.png)
 8. Appium에서 Emulator 실행법
     1. AndrodiStudio에서 Emulator 설치
     2. Appium Server GUI 실행 > startServer 클릭
