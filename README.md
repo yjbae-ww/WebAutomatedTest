@@ -8,3 +8,5 @@
   - [Appium 설치 가이드](https://github.com/yjbae-ww/WebAutomatedTest/blob/main/Appium/AppiumSettings.md)
 - Robot Framework
   - [Robot Framework 실행 가이드](https://github.com/yjbae-ww/WebAutomatedTest/blob/main/RobotFramework/RobotFrameworkGuide.md)
+
+### Document Update 날짜 : 2024.02.21
