@@ -1,10 +1,10 @@
 ## Selenium Grid 설치 및 실행 가이드
 
 1. 필수 환경 설치
-- Java JDK 설치 
+    - Java JDK 설치 
 
-    - [Java JDK Download](https://www.oracle.com/kr/java/technologies/downloads/)   
-    - [Java 환경변수 설정](https://coding-factory.tistory.com/838)
+        - [Java JDK Download](https://www.oracle.com/kr/java/technologies/downloads/)   
+        - [Java 환경변수 설정](https://coding-factory.tistory.com/838)
  
 2. Selenium-server jar 파일 다운 : Selenium Server(Grid)
    
@@ -59,10 +59,9 @@
 11. 노드용 컴퓨터의 cmd창에 아래 처럼 치기   
     (주소:포트번호는 허브용주소/cmd창의 경로는 jar파일 경로에서)
 
-    java -jar selenium-server-버전.jar node --hub http://주소:포트번호/gird/register   
     예시)
     ```
-    java -jar selenium-server-4.17.0.jar node --hub http://192.168.62.66:4444/gird/register
+    java -jar selenium-server-버전.jar node --hub http://주소:포트번호/gird/register 
     ```
 ### 참조 링크)   
 - [selenium grid 공식 문서](https://www.selenium.dev/documentation/grid/getting_started/)   
