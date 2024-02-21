@@ -7,8 +7,7 @@ https://www.oracle.com/java/technologies/downloads/
     
     *사용자 변수 편집
 
-    > JAVA_HOME
-    >
+    > JAVA_HOME   
     > C:\Program Files\Java\jdk-21
     
     ![사용자 변수 편집](./Resoucre/image.png)
@@ -18,40 +17,35 @@ https://www.oracle.com/java/technologies/downloads/
         > cmd > java -version
 
 3. Android Studio 설치
-    - [Android Studio Download](https://developer.android.com/studio?hl=ko)
-
+    - [Android Studio Download](https://developer.android.com/studio?hl=ko)   
     - SDK Manager 경로 참조
         > Tools > SDK Manager
-        ![alt text](./Resoucre/image-5.png)
+        ![alt text](./Resoucre/image-5.png)   
+    - Android SDK Platform-tools 설치 확인 (없으면 설치)   
+    ![alt text](./Resoucre/image-4.png)
 
-    - Android SDK Platform-tools 설치 확인 (없으면 설치)
-    - ![alt text](./Resoucre/image-4.png)
+    - ANDROID_HOME 경로 설정 & JAVA_HOME 경로 설정   
+    ![alt text](./Resoucre/image-2.png)
 
-    - ANDROID_HOME 경로 설정 & JAVA_HOME 경로 설정
-    - ![alt text](./Resoucre/image-2.png)
-
-    - ANDROID_HOME : 안드로이드 SDK 경로
+    - ANDROID_HOME : 안드로이드 SDK 경로   
     ![alt text](./Resoucre/image-3.png)
-
-    - 필요한 Andorid os 별 api 설치
-
-    - ADB 체크
-        > cmd창에서
-        >
+    - 필요한 Andorid os 별 api 설치   
+    - ADB 체크   
+        > cmd창에서   
         > adb --version
+        
 4. Appium 설치
-    - [Appium Server GUI 설치](https://github.com/appium/appium-desktop/releases)
-
+    - [Appium Server GUI 설치](https://github.com/appium/appium-desktop/releases)   
     - [Appium inspector 설치](https://github.com/appium/appium-inspector/releases)
-
+   
     - Appium Server GUI 실행 > Edit Configurations 선택 > 설정
     - ![alt text](./Resoucre/image-1.png)
 
 5. Python Client 설치
     > pip install Appium-Python-Client
+    
 6. 사용할 단말기 usb 연결
-    > cmd창에
-    >
+    > cmd창에   
     > adb devices
 7. Appium에서 단말 실행법
     1. Appium Server GUI 실행 > startServer 클릭
@@ -86,12 +80,10 @@ https://www.oracle.com/java/technologies/downloads/
 
 ### 참조) JSON 값 
 - AppPackage & AppActivity 값 확인
-    > 1.cmd 창 입력
-    >
+    > 1.cmd 창 입력   
     > adb shell dumpsys window | find "mCurrentFocus"
     
-    > 2.결과 
-    >
+    > 2.결과    
     > mCurrentFocus=Window{xxxxx u0 AppPackage/AppActivity}
 
 ### 참조 링크
