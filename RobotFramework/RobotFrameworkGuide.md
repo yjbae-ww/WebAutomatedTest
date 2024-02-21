@@ -3,29 +3,23 @@
 > $ python --version
 
 ### Robot Framework 설치
-> $ pip install robotframework
->
+> $ pip install robotframework   
 > $ pip install robotframework-selenium2library
 
 ### 동작 확인
-> $ rebot --version
->
+> $ rebot --version   
 > $ robot --version
 
 ### 파이썬 확장자
-> Python for VSCode
->
-> RobotF Extension
->
+> Python for VSCode   
+> RobotF Extension   
 > robotframework
 
 ![alt text](image.png)
 
 ### ride 설치
-> $ pip install robotframework-ride
->
-> $ pip install -U https://github.com/robotframework/RIDE/archive/master.zip
->
+> $ pip install robotframework-ride   
+> $ pip install -U https://github.com/robotframework/RIDE/archive/master.zip   
 > $ python -m robotide.init
 
 ### Webdriver 설치
