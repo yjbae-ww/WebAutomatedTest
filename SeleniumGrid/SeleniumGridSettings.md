@@ -61,7 +61,7 @@
 
     예시)
     ```
-    java -jar selenium-server-버전.jar node --hub http://주소:포트번호/gird/register 
+    java -jar selenium-server-버전.jar node --hub http://주소:포트번호/grid/register 
     ```
 ### 참조 링크)   
 - [selenium grid 공식 문서](https://www.selenium.dev/documentation/grid/getting_started/)   
