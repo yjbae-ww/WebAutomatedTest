@@ -59,7 +59,7 @@
 11. 노드용 컴퓨터의 cmd창에 아래 처럼 치기   
     (주소:포트번호는 허브용주소/cmd창의 경로는 jar파일 경로에서)
 
-    java -jar selenium-server-버전.jar node --hub http://주소:포트번호/gird/register
+    java -jar selenium-server-버전.jar node --hub http://주소:포트번호/gird/register   
     예시)
     ```
     java -jar selenium-server-4.17.0.jar node --hub http://192.168.62.66:4444/gird/register
