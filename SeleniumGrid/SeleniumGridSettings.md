@@ -96,6 +96,15 @@
 7. 테스트 통과/실패 확인
     ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/28d8e1e1-cca4-420d-bb9b-ab5f851eb5f1)
 
+### side 파일 생성법
+1. SeleniumIDE 설치 (Chrome 웹브라우저 기준)
+2. Chrome 웹스토어 > Selenium IDE [Chrome 웹스토어/SeleniumIDE](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
+3. Selenium 추가 및 플러그인 활성화
+4. Recorde 기능을 사용하여 테스트 생성 > side 파일 생성됨   
+참조)
+   ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/41122241-93d7-4cf5-a7c0-03f0354a96b9)
+
+
 ### 참조
 
 - 노드 생성
@@ -110,6 +119,12 @@
     ```
     C:\Users\ww\Downloads\chromedriver-win64\chromedriver-win64\
     ```
+
 ### 참조 링크)   
 - [selenium grid 공식 문서](https://www.selenium.dev/documentation/grid/getting_started/)   
 - [selenium grid hub,node 설치](https://www.whatap.io/ko/blog/39/)
+- [chrome에서 selenium IDE 설치 및 실행](https://crazykim2.tistory.com/382)   
+- [side 파일 자료](https://github.com/SeleniumHQ/selenium-ide/blob/trunk/tests/examples/echo.side)   
+
+### 키워드
+SeleniumGrid, SeleniumIDE, Chrome
