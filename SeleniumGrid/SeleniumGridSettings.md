@@ -100,7 +100,7 @@
 
 ### side 파일 생성법
 1. SeleniumIDE 설치 (Chrome 웹브라우저 기준)
-2. Chrome 웹스토어 > Selenium IDE [Chrome 웹스토어/SeleniumIDE](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
+2. Chrome 웹스토어 > Selenium IDE : [SeleniumIDE 설치](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
 3. Selenium 추가 및 플러그인 활성화
 4. Recorde 기능을 사용하여 테스트 생성 > side 파일 생성됨   
 참조)    
