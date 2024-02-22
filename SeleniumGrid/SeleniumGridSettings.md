@@ -63,9 +63,38 @@
     ```
     java -jar selenium-server-버전.jar node --hub http://주소:포트번호/grid/register 
     ```
-### 참조 링크)   
-- [selenium grid 공식 문서](https://www.selenium.dev/documentation/grid/getting_started/)   
-- [selenium grid hub,node 설치](https://www.whatap.io/ko/blog/39/)
+
+### 실습 : Node에서 Selenium side파일 실행
+1. cmd 창에서 허브 실행
+    ```
+    java -jar selenium-server-4.17.0.jar hub
+    ```
+2. Hub용 웹브라우저에서 SeleniumGrid 실행 확인
+    ```
+    http://ipconfig주소:기본 포트/grid
+    ```
+    ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/389b5693-704b-494e-a303-6845d69730bc)
+
+3. cmd 창에서 ipconfig 로 주소 확인 (IPv4주소)
+    ```
+    ipconfig
+    ```
+4. Node용 컴퓨터의 웹브라우저에서 SeleniumGrid 실행 확인
+    ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/2d0c05e1-5a81-4203-a811-52a7d334d02d)
+
+5. Node용 컴퓨터의 cmd 창에서 Node 실행
+    ```
+    java -jar selenium-server-4.17.0.jar node --hub http://주소:포트/grid/register
+    ```
+6. Hub용 컴퓨터의 cmd 창에서 .side 파일 실행 (StartChrome.side 는 파일 명)
+    ```
+    selenium-side-runner --server http://주소:포트/wd/hub -c "browserName=chrome" StartChrome.side
+    ```
+    *실행 이미지 (실행하는 동안 UI보여주었다가 사라짐)
+    ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/9263df7b-a84c-4559-9fd8-ba49bed7df94)
+
+7. 테스트 통과/실패 확인
+    ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/28d8e1e1-cca4-420d-bb9b-ab5f851eb5f1)
 
 ### 참조
 
@@ -81,3 +110,6 @@
     ```
     C:\Users\ww\Downloads\chromedriver-win64\chromedriver-win64\
     ```
+### 참조 링크)   
+- [selenium grid 공식 문서](https://www.selenium.dev/documentation/grid/getting_started/)   
+- [selenium grid hub,node 설치](https://www.whatap.io/ko/blog/39/)
