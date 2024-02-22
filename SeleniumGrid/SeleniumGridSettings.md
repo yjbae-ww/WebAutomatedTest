@@ -51,7 +51,9 @@
 7. 허브가 실행되는지 주소를 복사하여 웹 브라우저에서 실행
 
 8. cmd창에서 ipconfig로 주소 확인
-
+    ```
+    ipconfig
+    ```
 9. 웹 브라우저 실행 확인 후 노드로 쓸 컴퓨터에 환경 세팅 구축
 
 10. 노드용 컴퓨터에 허브용 주소를 웹브라우저에 실행하여 정상 동작하는지 확인
@@ -71,7 +73,7 @@
     ```
 2. Hub용 웹브라우저에서 SeleniumGrid 실행 확인
     ```
-    http://ipconfig주소:기본 포트/grid
+    http://주소:기본 포트/grid
     ```
     ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/389b5693-704b-494e-a303-6845d69730bc)
 
