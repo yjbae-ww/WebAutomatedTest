@@ -98,14 +98,35 @@
 7. 테스트 통과/실패 확인
     ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/28d8e1e1-cca4-420d-bb9b-ab5f851eb5f1)
 
-### side 파일 생성법
-1. SeleniumIDE 설치 (Chrome 웹브라우저 기준)
-2. Chrome 웹스토어 > Selenium IDE : [SeleniumIDE 설치](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
-3. Selenium 추가 및 플러그인 활성화
-4. Recorde 기능을 사용하여 테스트 생성 > side 파일 생성됨   
-참조)    
-   ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/41122241-93d7-4cf5-a7c0-03f0354a96b9)
+### side 파일 생성법 (Hub 및 Node에서 테스트)
+1. SeleniumIDE 설치 (Chrome 웹브라우저 기준)   
+    ![alt text](image.png)   
+    [SeleniumIDE 설치 경로](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
 
+2. SeleniumIDE 확장 프로그램 설정   
+    ![alt text](image-3.png)
+    
+4. SeleniumIDE 실행   
+    ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/41122241-93d7-4cf5-a7c0-03f0354a96b9)
+    
+3. 테스트 프로젝트 생성   
+    Create a new project 버튼 클릭 > 프로젝트 이름 쓰고 > OK 버튼 클릭
+    ![alt text](image-4.png)
+
+4. 테스트 실행   
+    Record 버튼 클릭 또는 Ctrl+U 단축키 사용
+    ![alt text](image-6.png)
+
+5. 사용할 url 주소 쓰고 테스트 시작하기    
+    웹사이트 입력 > start recording 버튼 클릭
+    ![alt text](image-7.png)
+
+6. 원하는 테스트를 생성   
+    예시) 웹사이트 이동 > 검색창에 python 키워드 입력 > Record 중지 버튼 클릭 > 테스트 이름 입력 > ok 버튼 클릭
+    ![alt text](image-8.png)
+
+7. 저장하여 side 파일 생성
+    ![alt text](image-9.png)
 
 ### 참조
 
