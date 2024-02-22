@@ -101,7 +101,7 @@
 2. Chrome 웹스토어 > Selenium IDE [Chrome 웹스토어/SeleniumIDE](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
 3. Selenium 추가 및 플러그인 활성화
 4. Recorde 기능을 사용하여 테스트 생성 > side 파일 생성됨   
-참조)
+참조)    
    ![image](https://github.com/yjbae-ww/WebAutomatedTest/assets/159973972/41122241-93d7-4cf5-a7c0-03f0354a96b9)
 
 
