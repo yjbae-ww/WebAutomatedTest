@@ -11,6 +11,9 @@
 - [모바일 앱 테스트 튜토리얼](https://www.guru99.com/ko/mobile-testing.html)
 - [앱 테스트 자동화 시작하기](https://m.blog.naver.com/PostList.naver?blogId=centerho&categoryName=Appium%20Season1&categoryNo=41&logCode=0)
 
+### Appium Test
+- [Appium으로 계산기 테스트](https://m.blog.naver.com/centerho/222778249034)
+
 ### 환경 세팅
 - [appium 세팅](https://www.youtube.com/@qa4474)
 
