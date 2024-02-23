@@ -10,11 +10,12 @@
     >     - [HTML을 파이썬으로 가져오자](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92369)
     >     - [내가 원하는 태그를 선택하자 : beautifulsoup](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92370)
     >     - [크롤링에서 가장 중요한 CSS 선택자](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92552)
+    > 
     > - 섹션3.뉴스데이터 수집하기 (24분) - 4개 강의 (데이터 가져오고,검색어 처리)
     >     - [헤드라인 뉴스 가져오는 방법?](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92371)
     >     - [뉴스의 제목과 링크를 가지고 오자](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92372)
     >     - [검색어에 따라 다른 결과를 나타내기 : pyautogui](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92373)
-    >     - [여러 페이지 결과 모두 가져오기 : 반복문](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92374)
+    >     - [여러 페이지 결과 모두 가져오기 : 반복문](https://www.inflearn.com/course/lecture?courseSlug=%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%B4%88&unitId=92374)   
     >     -> HTML/CSSS & 웹페이지에서 데이터 수집 기초
     >
     > 2.[사무직 칼퇴 필수 기술 : 파이썬 업무 자동화 - 기본편](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8#curriculum)
@@ -30,7 +31,8 @@
     >     - [스크린](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70798)
     >     - [윈도우 다루기](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70802)
     >     - [키보드](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70803)
-    >     - [메시지 박스](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70804)
+    >     - [메시지 박스](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70804)    
+    >    
     > - 섹션3.웹 자동화 : 전체 /실습
     >     - [Iframe](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70817)
     >     - [Radio](https://www.inflearn.com/course/lecture?courseSlug=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC&unitId=70818)
