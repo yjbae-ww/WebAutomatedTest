@@ -9,6 +9,20 @@
 - JAVA_HOME
 - ANDROID_HOME
 
+#### 환경 변수 설정 체크
+
+1.JAVA_HOME 체크 (둘 다 같은 의미)
+```
+echo %JAVA_HOME%
+set JAVA_HOME
+```
+
+2.ANDROID_HOME 체크 (둘 다 같은 의미)
+```
+echo %ANDROID_HOME%
+set ANDROID_HOME
+```
+
 ### Appium 설치
 1. 설치
 ```
