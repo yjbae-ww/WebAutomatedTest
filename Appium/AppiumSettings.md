@@ -1,4 +1,15 @@
 ## Appium 설치 가이드
+### 필수 설치
+- 안드로이드 스튜디오
+- Appium Inspector
+- Appium Server
+- Python
+
+### 주의 사항
+* Katalon Studio와 같이 사용할려면 Katalon 설치 가이드를 참조해서 npm으로 설치하는게 좋음
+- npm 설치하는 이유: Appium 경로가 맞지 않아서 환경 설정을 다시 해주어야 함
+
+### 설치 방법
 1. JDK 설치 
 https://www.oracle.com/java/technologies/downloads/
 
@@ -64,11 +75,6 @@ https://www.oracle.com/java/technologies/downloads/
     4. adb devices 를 cmd창에 입력하여 device 정보 알아내기
     5. JSON Repersentaiton에 입력
         > "appium:deviceName": "device정보"
-### 필수 설치
-- 안드로이드 스튜디오
-- Appium Inspector
-- Appium Server
-- Python
 
 ### 참조) JSON Repersentaiton
 ```
