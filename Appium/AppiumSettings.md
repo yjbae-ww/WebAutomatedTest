@@ -7,7 +7,7 @@
 
 ### 주의 사항
 * Katalon Studio와 같이 사용할려면 Katalon 설치 가이드를 참조해서 npm으로 설치하는게 좋음
-- npm 설치하는 이유: Appium 경로가 맞지 않아서 환경 설정을 다시 해주어야 함
+- npm으로 Katalon 설치하는 이유: Katalon Studio에서 Appium 경로를 불려와야 하는데 npm으로 설치한 경로를 설정함
 - [KatalonSettings 문서](https://github.com/yjbae-ww/WebAutomatedTest/blob/main/Katalon/KatalonSettings.md)
 
 ### 설치 방법
