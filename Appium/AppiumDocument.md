@@ -21,3 +21,4 @@
 - [Android 자동화 Script 작성](https://velog.io/@soyean/UI-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-Android-%EC%9E%90%EB%8F%99%ED%99%94-Script-%EC%9E%91%EC%84%B1Appium-python-unittest)
 - [Android SDK 자동화 테스트 환경 구축](https://engineering.ab180.co/stories/android-sdk-test-automation-part1)
 - [모바일 게임 테스트 자동화](https://www.slideshare.net/freefish/appium-61360236)
+- [Appium 커뮤니티](https://discuss.appium.io/)
