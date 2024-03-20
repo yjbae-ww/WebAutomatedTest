@@ -81,6 +81,11 @@
 ### 문서
 - [Python 공식 문서](https://docs.python.org/ko/3.13/howto/argparse.html)
 
+### 책
+- [혼자 공부하는 파이썬](https://hongong.hanbit.co.kr/python-%EC%B1%85-%EC%B6%94%EC%B2%9C-%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%9B%84%EA%B8%B0/)
+- [나도코딩의 파이썬 입문](https://www.gilbut.co.kr/book/view?bookcode=BN003658)
+- [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 ### 참조
 - [셀레니움 기본 문법](https://m.blog.naver.com/swimmingsdesign/223034723268)
 - [코드 튜토리얼](https://www.delftstack.com/)
+
