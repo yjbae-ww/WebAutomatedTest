@@ -147,7 +147,8 @@
 - [selenium grid 공식 문서](https://www.selenium.dev/documentation/grid/getting_started/)   
 - [selenium grid hub,node 설치](https://www.whatap.io/ko/blog/39/)
 - [chrome에서 selenium IDE 설치 및 실행](https://crazykim2.tistory.com/382)   
-- [side 파일 자료](https://github.com/SeleniumHQ/selenium-ide/blob/trunk/tests/examples/echo.side)   
+- [side 파일 자료](https://github.com/SeleniumHQ/selenium-ide/blob/trunk/tests/examples/echo.side)
+- [selenium grid & docker](https://tech.nexr.kr/c9b446df-38ca-4004-bf93-2c37183ff993)
 
 ### 키워드
 SeleniumGrid, SeleniumIDE, Chrome
